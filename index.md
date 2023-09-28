@@ -1,19 +1,29 @@
-Site links:
+## Site Links
+
+Primary site links:
+
 - [GitHub](https://github.com/louis-langholtz/)
 - [StackOverflow](https://stackoverflow.com/users/7410358/louis-langholtz)
 
-Software project websites:
+## Software Projects
+
+Here's a listing of projects with GitHub pages:
 - [PlayRho](PlayRho/)
 
-Articles:
+## Articles
+
 - Coming soon.
 
-All Posts:
+## Presentations
 
 <ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{post.date | date: "%B %-d, %Y"}}: {{ post.title }}</a>
-    </li>
+  {% for tag in site.tags %}
+    {% if tag[0] == "presentation" %}
+      {% for post in tag[1] %}
+        <li>
+          <a href="{{ post.url }}">{{post.date | date: "%B %-d, %Y"}}: {{ post.title }}</a>
+        </li>
+      {% endfor %}
+    {% endif %}
   {% endfor %}
 </ul>

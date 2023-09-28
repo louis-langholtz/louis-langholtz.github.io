@@ -14,3 +14,12 @@ kramdown:
 footer-links:
   github: louis-langholtz
 date_format: "%b %-d, %Y"
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+  - scope:
+      path: "assets/pdf"
+    values:
+      presentation: true
