@@ -16,10 +16,10 @@ footer-links:
 date_format: "%b %-d, %Y"
 defaults:
   - scope:
-      path: "assets/img"
+      path: "image"
     values:
       image: true
   - scope:
-      path: "assets/pdf"
+      path: "presentation"
     values:
       presentation: true
