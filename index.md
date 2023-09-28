@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 ## Site Links
 
 Primary site links:

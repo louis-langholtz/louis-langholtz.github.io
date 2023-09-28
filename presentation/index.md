@@ -1,5 +1,3 @@
-# Presentations
-
 Here's a selection of more recent presentations I've given with links to the materials.
 Listed in reverse chronological order:
 
