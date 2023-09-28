@@ -1,6 +1,7 @@
 remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme
+- jekyll-sitemap
 title: Louis Langholtz
 description: website + blog.
 lsi: false
@@ -10,3 +11,6 @@ gist:
   noscript: false
 kramdown:
   math_engine: mathjax
+footer-links:
+  github: louis-langholtz
+date_format: "%b %-d, %Y"
