@@ -8,13 +8,12 @@ Software project websites:
 Articles:
 - Coming soon.
 
-Blog:
-- See [posts](_posts).
+All Posts:
 
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ post.url }}">{{post.date | date: "%B %-d, %Y"}}: {{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
