@@ -9,4 +9,4 @@ Articles:
 - Coming soon.
 
 Blog:
-- Coming soon.
+- See [posts](_posts).
