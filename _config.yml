@@ -2,7 +2,7 @@
 remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
-title: Louis Langholtz @ github.io
+title: Louis Langholtz @ GitHub.IO
 url: https://louis-langholtz.github.io
 description: website + blog.
 lsi: false
@@ -31,4 +31,4 @@ minima:
     - platform: stackoverflow
       user_url: "https://stackoverflow.com/users/7410358/louis-langholtz"
 disqus:
-  shortname: https-louis-langholtz-github-io.disqus.com
+  shortname: https-louis-langholtz-github-io
