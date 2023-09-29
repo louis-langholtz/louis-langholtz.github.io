@@ -27,7 +27,7 @@ layout: base
   </header>
 
   <div class="post-tags" itemprop="articleTags">
-    Tags: {{ page.tags }}
+    Tags: <em>{{ page.tags | joint: "</em> <em>" }}</em>.
   </div>
 
   <div class="post-content e-content" itemprop="articleBody">
