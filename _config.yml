@@ -3,6 +3,7 @@ remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
 title: Louis Langholtz @ github.io
+url: https://louis-langholtz.github.io
 description: website + blog.
 lsi: false
 safe: true
