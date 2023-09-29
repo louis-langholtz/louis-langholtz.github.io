@@ -2,17 +2,12 @@
 layout: page
 ---
 
-## Software Projects
-
-Here's a listing of projects with GitHub pages:
+Here's a listing of some Open Source repositories of mine:
 - [PlayRho](PlayRho/)
+- [pyspellcode](https://github.com/louis-langholtz/pyspellcode)
+- [flow](https://github.com/louis-langholtz/flow)
 
-## Articles
-
-- Coming soon.
-
-## Presentations
-
+And some more recent presentations:
 <ul>
   {% for tag in site.tags %}
     {% if tag[0] == "presentation" %}
