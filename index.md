@@ -1,13 +1,6 @@
 ---
-layout: home
+layout: page
 ---
-
-## Site Links
-
-Primary site links:
-
-- [GitHub](https://github.com/louis-langholtz/)
-- [StackOverflow](https://stackoverflow.com/users/7410358/louis-langholtz)
 
 ## Software Projects
 
