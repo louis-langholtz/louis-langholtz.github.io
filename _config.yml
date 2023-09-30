@@ -3,9 +3,11 @@ remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
+  - jekyll-paginate
 title: Louis Langholtz @ GitHub.IO
 url: https://louis-langholtz.github.io
 description: "Welcome to my GitHub Pages! Here you'll find info on my publicly available software related: events, presentations, projects and more."
+paginate: 6
 lsi: false
 safe: true
 incremental: false
