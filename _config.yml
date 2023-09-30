@@ -2,9 +2,10 @@
 remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
+  - jekyll-feed
 title: Louis Langholtz @ GitHub.IO
 url: https://louis-langholtz.github.io
-description: website + blog.
+description: "Welcome to my GitHub Pages! Here you'll find info on my publicly available software related: events, presentations, projects and more."
 lsi: false
 safe: true
 incremental: false
@@ -25,10 +26,13 @@ defaults:
     values:
       presentation: true
 minima:
+  skin: dark
   social_links:
     - platform: github
       user_url: "https://github.com/louis-langholtz"
     - platform: stackoverflow
       user_url: "https://stackoverflow.com/users/7410358/louis-langholtz"
+    - platform: linkedin
+      user_url: "https://www.linkedin.com/in/louis-langholtz"
 disqus:
   shortname: https-louis-langholtz-github-io

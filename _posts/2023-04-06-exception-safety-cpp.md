@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Exceptional Safety In Function Interfaces"
-comments: true
+comments: false
 tags: presentation c++
 ---
 

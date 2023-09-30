@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Intro to C++ Allocators"
-comments: true
+comments: false
 tags: presentation c++
 ---
 
