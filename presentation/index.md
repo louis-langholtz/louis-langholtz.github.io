@@ -5,6 +5,8 @@ title: "Presentations"
 
 Here's a selection of more recent presentations I've given with links to the materials:
 
+- [Testing C++ Code: An Introduction & Google Test](testing-cpp-code.pdf).
+  - Presented to the [New Mexico C++ Programmers Meetup Group](https://www.meetup.com/new-mexico-cpp-programmers/) on [October 17, 2023](https://www.meetup.com/new-mexico-cpp-programmers/events/295801601/).
 - [Contract Oriented Programming in C++](dbc-cpp.pdf).
   - Presented to the [Bayou C++ Meetup](https://www.meetup.com/bayou-cpp-meetup/) on [September 25, 2023](https://www.meetup.com/bayou-cpp-meetup/events/296223857/).
   - Presented to the [New Mexico C++ Programmers Meetup Group](https://www.meetup.com/new-mexico-cpp-programmers/) on [September 12, 2023](https://www.meetup.com/new-mexico-cpp-programmers/events/295757616/).
