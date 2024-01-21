@@ -17,6 +17,6 @@ Here's a summary of the more notable user visible changes from v0.2 to v0.3:
 - Improves action stop handling.
 - Improves exit handling.
 
-**Full Changelog**: https://github.com/louis-langholtz/time-machine-helper/compare/v0.2...v0.3
+**Full Changelog**: [v0.2...v0.3](https://github.com/louis-langholtz/time-machine-helper/compare/v0.2...v0.3).
 
 Looking to the future: see the [list of open issues](https://github.com/louis-langholtz/time-machine-helper/issues).
